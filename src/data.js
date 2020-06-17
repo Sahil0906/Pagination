@@ -1,0 +1,26 @@
+export const DATA = [
+    {
+      checked:false,
+      name:'Sahil',
+      email:'abc@gmail.com',
+      phone:8247309841,
+    },
+    {
+      checked:false,
+      name:'Killua',
+      email:'Killua@gmail.com',
+      phone:8247309841,
+    },
+    {
+      checked:false,
+      name:'Levi',
+      email:'Levi@gmail.com',
+      phone:8247309841,
+    },
+    {
+      checked:false,
+      name:'Eren',
+      email:'Eren@gmail.com',
+      phone:8247309841,
+    }
+  ]
